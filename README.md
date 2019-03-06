@@ -25,7 +25,7 @@ pageListDTO.setOtherData(obj);
 // totalPage 总页数
 // totalRecord 总数据量
 // otherData 列表外的数据附加
-`{
+```{
     "success": true,
     "code": "",
     "msg": "",
@@ -292,7 +292,7 @@ pageListDTO.setOtherData(obj);
         "previousPageNoSequence": []
     }
 }
-`
+```
 
 ***
 # ArrayList<HashMap<String, Object>> 格式对象排序
